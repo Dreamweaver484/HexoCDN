@@ -1,2 +1,2 @@
 # HexoCDN
-Hxeo的CDN
+Hxeo-blog的CDN
